@@ -1,4 +1,4 @@
-package spring.advanced.trace.threadlocal.code;
+package spring.threadlocal.code;
 
 import lombok.extern.slf4j.Slf4j;
 
